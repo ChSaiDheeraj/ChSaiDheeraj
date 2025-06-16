@@ -1,5 +1,7 @@
 ## Hi there, I'm Ch. Sai Dheeraj!👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=Sasank&label=Profile%20views&color=0e75b6&style=flat)
+---
+### 📊 GitHub Stats:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiDheeraj&layout=compact&theme=radical&langs_count=8)
 <!--
 **ChSaiDheeraj/ChSaiDheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
