@@ -28,8 +28,10 @@
 
 ### 📊 GitHub Stats:
 
-[![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ChSaiDheeraj&theme=github-dark-dimmed)](https://github.com/ChSaiDheeraj/github-readme-activity-graph)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiDheeraj&layout=compact&theme=radical&langs_count=8)
+[![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ChSaiDheeraj&theme=dracula)](https://github.com/ChSaiDheeraj/github-readme-activity-graph)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiDheeraj&layout=compact&theme=github_dark&langs_count=6)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=ChSaiDheeraj&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **ChSaiDheeraj/ChSaiDheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,12 +49,3 @@ Here are some ideas to get you started:
 ---
 
 *Thanks for visiting my profile! Feel free to check out my repositories and connect with me!*
-
-## GitHub Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChSaiDheeraj&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiDheeraj&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ChSaiDheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChSaiDheeraj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
