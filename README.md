@@ -47,3 +47,12 @@ Here are some ideas to get you started:
 ---
 
 *Thanks for visiting my profile! Feel free to check out my repositories and connect with me!*
+
+## GitHub Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChSaiDheeraj&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiDheeraj&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ChSaiDheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChSaiDheeraj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
