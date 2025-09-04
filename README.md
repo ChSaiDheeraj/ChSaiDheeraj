@@ -1,6 +1,6 @@
 # Hi, I’m Ch. Sai Dheeraj 👋
 
-[Profile Views](https://komarev.com/ghpvc/?username=ChSaiDheeraj&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ChSaiDheeraj&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
