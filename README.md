@@ -50,9 +50,6 @@ Git • GitHub • Postman • OpenAI APIs • Firebase
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChSaiDheeraj&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiDheeraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 ## 📫 Connect With Me
 
