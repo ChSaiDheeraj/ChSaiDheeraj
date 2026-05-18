@@ -26,8 +26,6 @@ Full-Stack Developer focused on AI-powered applications, modern web systems, and
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 ### Languages
 Python • JavaScript • Java • C • C++ • SQL
 
