@@ -40,11 +40,19 @@ Git • GitHub • Postman • OpenAI APIs • Firebase
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Activity
 
-[![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ChSaiDheeraj&theme=dracula)](https://github.com/ChSaiDheeraj/github-readme-activity-graph)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiDheeraj&layout=compact&theme=github_dark&langs_count=6)
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=ChSaiDheeraj&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChSaiDheeraj&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChSaiDheeraj&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiDheeraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ## 📫 Connect With Me
 
